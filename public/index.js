@@ -4,8 +4,8 @@ function count(month) {
 
 }
 
-function greet (lanugage) {
-    console.log(lanugage);
+function greet (language, framework) {
+    console.log(`i love to work with :${language} ${framework}`);
 }
 
 greet();
