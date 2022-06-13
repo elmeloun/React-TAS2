@@ -4,8 +4,8 @@ function count(month, year) {
 
 }
 
-function greet (lanugage) {
-    console.log(lanugage);
+function greet (name) {
+    console.log(`Greetings for the parameter ${name}`);
 }
 
 greet();
