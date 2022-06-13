@@ -1,7 +1,12 @@
 
+function count(month) {
+    console.log(`i was born in :${month}`);
 
-function count(age) {
-    console.log(`Your age is :${age}`);
+}
+
+function count(month) {
+    console.log(`i was born in month :${month}`);
+
 }
 
 function greet (lanugage) {
