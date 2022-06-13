@@ -3,8 +3,8 @@ function count(year) {
     console.log(`i was born in :${year}`);
 
 
-function greet (language, framework) {
-    console.log(`i love to work with :${language} ${framework}`);
+function greet (name) {
+    console.log(`Greetings for the parameter ${name}`);
 }
 
 
