@@ -1,12 +1,15 @@
 
 
-
 function count(age) {
     console.log(`Your age is :${age}`);
 }
 
-function greet () {
-    console.log('Milan');
+function greet (name) {
+    console.log(name);
 }
 
 greet();
+count();
+
+
+
