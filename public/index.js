@@ -1,8 +1,8 @@
-function count() {
-    console.log(`Your age is :${26}`);
+function count(month) {
+    console.log(`i was born in :${month}`);
 }
 
-function greet (name: string ) {
+function greet (name) {
     console.log(name);
 }
 
