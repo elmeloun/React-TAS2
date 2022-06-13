@@ -4,7 +4,6 @@ function count(month) {
 
 }
 
-
 function greet (lanugage) {
     console.log(lanugage);
 }
